@@ -1,8 +1,10 @@
-.main {
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
-  align-items: center;
-  padding: 6rem;
-  min-height: 100vh;
+.page {
+    margin:0 auto;
+    max-width:1080px;
+    padding: 25px;
+
+} 
+
+.page h1 {
+    text-align: center;
 }

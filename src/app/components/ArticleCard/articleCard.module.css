@@ -1,0 +1,26 @@
+
+.articleCard{
+    display:flex; 
+    border: 5px solid pink;
+    background-color: azure;
+    gap: 20px;
+    padding: 20px;
+    margin-bottom: 30px;
+
+}
+
+.articleCardContent{
+    padding-left: 5px;
+    flex-grow: 1;
+}
+
+.articleCardImg{
+    margin: auto;
+    height:100%;
+    max-width:200px;
+}
+.articleCardImg img{
+    width:100%;
+    height:auto;
+
+}

@@ -1,7 +1,7 @@
 export default [
   {
     "id": "article-one",
-    "title": "Article One: First Fake Article",
+    "title": "Cute Dogs",
     "blurb": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
     "articleText": [
       {
@@ -33,7 +33,7 @@ export default [
   },
   {
     "id": "article-two",
-    "title": "Article Two: Another Fake Article",
+    "title": "Cute Cats",
     "blurb": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
     "articleText": [
       {
@@ -65,7 +65,7 @@ export default [
   },
   {
     "id": "article-three",
-    "title": "Making Another Article Here",
+    "title": "Cute Fish",
     "blurb": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
     "articleText": [
       {
@@ -97,7 +97,7 @@ export default [
   },
   {
     "id": "article-four",
-    "title": "Sample Article: Another Article",
+    "title": "Cute Hamster",
     "blurb": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
     "articleText": [
       {
@@ -129,7 +129,7 @@ export default [
   },
   {
     "id": "article-five",
-    "title": "Wow! A Fifth Article Already",
+    "title": "Another Cute Pet",
     "blurb": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
     "articleText": [
       {
@@ -161,7 +161,7 @@ export default [
   },
   {
     "id": "article-six",
-    "title": "The Last Article: A Very Cool Fake Article",
+    "title": "The Last Cute Pet",
     "blurb": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
     "articleText": [
       {
