@@ -11,8 +11,8 @@ export default function Home() {
         {Data.map((article) => (
           <ArticleCard
             key= {article.id}
-            date={new Date(article.publishedDate).toDateString}
-            // My date dissapeard???
+            date={new Date(article.publishedDate).toDateString()}
+            id={article.id}
             description ={article.blurb}
             imageAlt={article.image.alt}
             imageSrc={article.image.url}
